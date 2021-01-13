@@ -5,6 +5,10 @@ When I went to bed and when I woke up!
 
 To be more mindful of my daily routine.
 
+## Change Lives
+
+If you want to spread TIW and change lives, please ★ Star this repo and start your own TIW!
+
 ## Rules
 
 - If you're looking at your phone, you're not in bed.
