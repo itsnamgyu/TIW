@@ -5,6 +5,11 @@ When I went to bed and when I woke up!
 
 To be more mindful of my daily routine.
 
+## Rules
+
+- If you're looking at your phone, you're not in bed.
+- If you went back to bed, you didn't wake up yet.
+
 ## Log
 
 ```when-i-woke
