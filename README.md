@@ -1,7 +1,7 @@
 # today-i-woke
 Wake up early, change your life.
 
-Keep track of when you went to bed and when you woke up to be more mindful of your daily routine.
+Keep track of your sleep schedule to be more mindful of your daily routine.
 
 ## Spread The Word
 
