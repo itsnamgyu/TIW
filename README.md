@@ -16,8 +16,8 @@ If you want to spread TIW and change lives, please ★ Star this repo and start 
 
 ```when-i-woke
 DATE     SLEEP  WOKE   TIME   RATING
-200110   0200 - 1145   0945   BAD
-200111   0130 - 0800   0630   OK
-200112   0230 - 1500   1330   WTF
-200113   0130 - 0900   0730   OK
+210110   0200 - 1145   0945   BAD
+210111   0130 - 0800   0630   OK
+210112   0230 - 1500   1330   WTF
+210113   0130 - 0900   0730   OK
 ```
