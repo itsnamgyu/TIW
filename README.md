@@ -1,11 +1,9 @@
 # today-i-woke
-When I went to bed and when I woke up!
+Wake up early, change your life.
 
-## Motivation
+Keep track of when you went to bed and when you woke up to be more mindful of your daily routine.
 
-To be more mindful of my daily routine.
-
-## Change Lives
+## Spread The Word
 
 If you want to spread TIW and change lives, please ★ Star this repo and start your own TIW!
 
