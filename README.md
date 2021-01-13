@@ -1,4 +1,4 @@
-# when-i-woke
+# today-i-woke
 When I went to bed and when I woke up!
 
 ## Motivation
