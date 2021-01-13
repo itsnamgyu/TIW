@@ -1,6 +1,12 @@
 # when-i-woke
 When I went to bed and when I woke up!
 
+## Motivation
+
+To be more mindful of my daily routine.
+
+## Log
+
 ```when-i-woke
 DATE     SLEEP  WOKE   TIME   RATING
 200110   0200 - 1145   0945   OK
