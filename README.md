@@ -1,5 +1,5 @@
 # when-i-woke
-When I go to bed and when I woke up!
+When I went to bed and when I woke up!
 
 ```when-i-woke
 DATE     SLEEP  WOKE   TIME   RATING
