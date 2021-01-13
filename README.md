@@ -5,7 +5,7 @@ When I went to bed and when I woke up!
 
 To be more mindful of my daily routine.
 
-## When I Woke
+## Log
 
 ```when-i-woke
 DATE     SLEEP  WOKE   TIME   RATING
