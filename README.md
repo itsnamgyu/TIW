@@ -11,6 +11,8 @@ If you want to spread TIW and change lives, please ★ Star this repo and start 
 
 - If you're looking at your phone, you're not in bed.
 - If you went back to bed, you didn't wake up yet.
+- You may document your falling asleep time as the last time you looked at your phone.
+
 
 ## Log
 
