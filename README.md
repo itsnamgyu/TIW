@@ -13,6 +13,20 @@ If you want to spread TIW and change lives, please ★ Star this repo and start 
 - If you went back to bed, you didn't wake up yet.
 - You may document your falling asleep time as the last time you looked at your phone.
 
+## Observations
+
+- Things that make me sleep late, meaninglessly
+  - When I got nothing done that day
+    - 👍 Get shit done! (according to some big picture)
+  - Personal things (that are actually really minor)
+    - 👍 Just remember this fact
+    - ☑️ Plan for days to end on a high note?
+- YouTube really sucks
+  - ☑️ Plan for entertainment (perhaps equivalent to previous YouTube time) (wow, much hours) ☆
+- Really hard to wake up when there is nothing planned
+  - 👍 Should always have a plan (or not even need a plan)
+
+\* Make unchecked things a habit, one-by-one (and then ✅ them)
 
 ## Log
 
