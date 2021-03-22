@@ -19,7 +19,7 @@ If you want to spread TIW and change lives, please ★ Star this repo and start 
   - When I got nothing done that day
     - 👍 Get shit done! (according to some big picture)
   - Personal things (that are actually really minor)
-    - 👍 Just remember this fact
+    - 👍 Just remember that they are very minor
     - ☑️ Plan for days to end on a high note?
   - Coming home exhuasted
     - 👍 Use a tool to kickstart bed-prep (like a podcast)
