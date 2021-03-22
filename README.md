@@ -21,10 +21,12 @@ If you want to spread TIW and change lives, please ★ Star this repo and start 
   - Personal things (that are actually really minor)
     - 👍 Just remember this fact
     - ☑️ Plan for days to end on a high note?
+  - Coming home exhuasted
+    - 👍 Use a tool to kickstart bed-prep (like a podcast)
 - YouTube really sucks
   - ☑️ Plan for entertainment (perhaps equivalent to previous YouTube time) (wow, much hours) ☆
 - Really hard to wake up when there is nothing planned
-  - 👍 Should always have a plan (or not even need a plan)
+  - 👍 Should always have a plan/schedule (or not even need a plan)
 
 \* Make unchecked things a habit, one-by-one (and then ✅ them)
 
@@ -101,4 +103,7 @@ DATE       SLEEP  WOKE   TIME   RATING
 210317 W   0200 - 1000   0800   BAD
 210318 T   0230 - 1030   0800   BAD
 210319 F   0100 - 0945   0845   OKAY
+210320 S   0130 - 8000   0600   BAD
+210321 S   0330 - 1200   0830   NO
+210322 M   0230 - 0800   0530   BAD
 ```
